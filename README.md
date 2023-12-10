@@ -1,2 +1,2 @@
 # projects
-contains all my projects
+contains all GUI python projects
